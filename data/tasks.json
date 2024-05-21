@@ -1,0 +1,86 @@
+{
+    "global_tasks": [
+        {
+            "title": "Complete Project",
+            "priority": "high",
+            "completed": false,
+            "tasks": [
+                {
+                    "title": "Research",
+                    "priority": "medium",
+                    "completed": false,
+                    "subtasks": [
+                        {
+                            "title": "Gather information",
+                            "priority": "low",
+                            "completed": false
+                        },
+                        {
+                            "title": "Analyze data",
+                            "priority": "low",
+                            "completed": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Development",
+                    "priority": "high",
+                    "completed": false,
+                    "subtasks": [
+                        {
+                            "title": "Design UI",
+                            "priority": "low",
+                            "completed": true
+                        },
+                        {
+                            "title": "Implement backend",
+                            "priority": "low",
+                            "completed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Plan Marketing Campaign",
+            "priority": "medium",
+            "completed": false,
+            "tasks": [
+                {
+                    "title": "Market Research",
+                    "priority": "high",
+                    "completed": false,
+                    "subtasks": [
+                        {
+                            "title": "Survey customers",
+                            "priority": "medium",
+                            "completed": false
+                        },
+                        {
+                            "title": "Analyze competitors",
+                            "priority": "medium",
+                            "completed": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Create Content",
+                    "priority": "high",
+                    "completed": false,
+                    "subtasks": [
+                        {
+                            "title": "Write blog posts",
+                            "priority": "low",
+                            "completed": true
+                        },
+                        {
+                            "title": "Design graphics",
+                            "priority": "low",
+                            "completed": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
